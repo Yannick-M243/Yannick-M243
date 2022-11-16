@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yannick Makwenge</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yannick-M243?tab=repositories](https://github.com/Yannick-M243?tab=repositories)
 
