@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yannick Makwenge</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **New stuff everyday**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yannick-M243?tab=repositories](https://github.com/Yannick-M243?tab=repositories)
 
